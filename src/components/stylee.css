@@ -1,0 +1,12 @@
+
+
+#btn:hover , #fl:hover{
+    text-decoration: line-through;
+    /* display: block; */
+    /* background-color: aquamarine; */
+    opacity: 0.5;
+}
+
+/* #fl:hover{
+    text-decoration: line-through;
+} */
