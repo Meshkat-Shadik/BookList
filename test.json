@@ -1,0 +1,64 @@
+{
+    "targetDetails": [
+        {
+            "amount": "600.00",
+            "achieved": "138.00",
+            "name": "Jui Coconut Oil"
+        },
+        {
+            "amount": "250.00",
+            "achieved": "138.00",
+            "name": "Aquafina 250ml"
+        },
+        {
+            "amount": "600.00",
+            "achieved": "50.00",
+            "name": "Jui Coconut Oil"
+        },
+        {
+            "amount": "250.00",
+            "achieved": "50.00",
+            "name": "Aquafina 250ml"
+        },
+        {
+            "amount": "600.00",
+            "achieved": "22.00",
+            "name": "Jui Coconut Oil"
+        },
+        {
+            "amount": "250.00",
+            "achieved": "22.00",
+            "name": "Aquafina 250ml"
+        },
+        {
+            "amount": "600.00",
+            "achieved": "0.00",
+            "name": "Jui Coconut Oil"
+        },
+        {
+            "amount": "250.00",
+            "achieved": "0.00",
+            "name": "Aquafina 250ml"
+        },
+        {
+            "amount": "600.00",
+            "achieved": "0.00",
+            "name": "Jui Coconut Oil"
+        },
+        {
+            "amount": "250.00",
+            "achieved": "0.00",
+            "name": "Aquafina 250ml"
+        },
+        {
+            "amount": "600.00",
+            "achieved": "0.00",
+            "name": "Jui Coconut Oil"
+        },
+        {
+            "amount": "250.00",
+            "achieved": "0.00",
+            "name": "Aquafina 250ml"
+        }
+    ]
+}
